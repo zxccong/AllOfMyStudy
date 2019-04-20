@@ -1,0 +1,14 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+
+192.168.222.131 eshop01
+192.168.222.132 eshop02
+192.168.222.133 eshop03
+192.168.222.134 eshop04
+
+
+192.168.222.131 eshop-cache01
+192.168.222.132 eshop-cache02
+192.168.222.133 eshop-cache03
+192.168.222.134 eshop-cache04
