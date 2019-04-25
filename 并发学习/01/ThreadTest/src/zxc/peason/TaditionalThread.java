@@ -1,7 +1,7 @@
 package zxc.peason;
 
 /**
- * 传统的线程
+ * 1.传统的线程
  */
 public class TaditionalThread  {
 

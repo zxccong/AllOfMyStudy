@@ -5,7 +5,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * 传统的定时器
+ * 2.传统的定时器
  */
 public class TraditionTimerTest {
     static int count = 0;

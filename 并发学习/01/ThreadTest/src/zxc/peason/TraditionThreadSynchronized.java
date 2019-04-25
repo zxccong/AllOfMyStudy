@@ -1,7 +1,7 @@
 package zxc.peason;
 
 /**
- * 传统的线程同步
+ * 3.传统的线程同步
  */
 public class TraditionThreadSynchronized {
 

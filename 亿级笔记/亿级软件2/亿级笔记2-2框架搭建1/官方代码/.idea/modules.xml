@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeting-service/greeting-service.iml" filepath="$PROJECT_DIR$/greeting-service/greeting-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-terbine-server/hystrix-terbine-server.iml" filepath="$PROJECT_DIR$/hystrix-terbine-server/hystrix-terbine-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/say-hello-service/say-hello-service.iml" filepath="$PROJECT_DIR$/say-hello-service/say-hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuth-server/sleuth-server.iml" filepath="$PROJECT_DIR$/sleuth-server/sleuth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/官方代码.iml" filepath="$PROJECT_DIR$/.idea/官方代码.iml" />
+    </modules>
+  </component>
+</project>

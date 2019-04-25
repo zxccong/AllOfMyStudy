@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eshop-dataaggr-service/eshop-dataaggr-service.iml" filepath="$PROJECT_DIR$/eshop-dataaggr-service/eshop-dataaggr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-datalink-service/eshop-datalink-service.iml" filepath="$PROJECT_DIR$/eshop-datalink-service/eshop-datalink-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-datasync-service/eshop-datasync-service.iml" filepath="$PROJECT_DIR$/eshop-datasync-service/eshop-datasync-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-inventory-service/eshop-inventory-service.iml" filepath="$PROJECT_DIR$/eshop-inventory-service/eshop-inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-one-service/eshop-one-service.iml" filepath="$PROJECT_DIR$/eshop-one-service/eshop-one-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-price-service/eshop-price-service.iml" filepath="$PROJECT_DIR$/eshop-price-service/eshop-price-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-product-service/eshop-product-service.iml" filepath="$PROJECT_DIR$/eshop-product-service/eshop-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/官方代码.iml" filepath="$PROJECT_DIR$/.idea/官方代码.iml" />
+    </modules>
+  </component>
+</project>
